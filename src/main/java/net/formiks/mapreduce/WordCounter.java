@@ -19,7 +19,7 @@ import java.io.FileReader;
  * Date: 6/18/14
  * Time: 11:55 PM
  */
-public class MapReduceApplication {
+public class WordCounter {
 
     final static String FILE_NAME = "D:\\test.txt";
 
