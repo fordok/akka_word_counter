@@ -1,9 +1,9 @@
-package net.formiks.actors.wordcounter;
+package net.fordok.actors.wordcounter;
 
 import akka.actor.UntypedActor;
-import net.formiks.messages.MapData;
-import net.formiks.messages.ReduceData;
-import net.formiks.messages.WordCount;
+import net.fordok.messages.MapData;
+import net.fordok.messages.ReduceData;
+import net.fordok.messages.WordCount;
 
 import java.util.HashMap;
 import java.util.List;

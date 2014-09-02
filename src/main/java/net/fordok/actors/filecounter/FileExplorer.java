@@ -1,4 +1,4 @@
-package net.formiks.actors.filecounter;
+package net.fordok.actors.filecounter;
 
 import akka.actor.UntypedActor;
 

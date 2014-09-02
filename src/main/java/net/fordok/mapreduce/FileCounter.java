@@ -1,11 +1,9 @@
-package net.formiks.mapreduce;
+package net.fordok.mapreduce;
 
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
 import akka.actor.Props;
-import net.formiks.actors.filecounter.FileCollector;
-
-import java.io.File;
+import net.fordok.actors.filecounter.FileCollector;
 
 /**
  * User: Fordok

@@ -1,12 +1,12 @@
-package net.formiks.actors.wordcounter;
+package net.fordok.actors.wordcounter;
 
 import akka.actor.ActorRef;
 import akka.actor.Props;
 import akka.actor.UntypedActor;
 import akka.routing.RoundRobinRouter;
-import net.formiks.messages.MapData;
-import net.formiks.messages.ReduceData;
-import net.formiks.messages.Result;
+import net.fordok.messages.MapData;
+import net.fordok.messages.ReduceData;
+import net.fordok.messages.Result;
 
 /**
  * User: Fordok

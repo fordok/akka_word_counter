@@ -1,4 +1,4 @@
-package net.formiks.mapreduce;
+package net.fordok.mapreduce;
 
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
@@ -8,8 +8,8 @@ import akka.dispatch.Future;
 import akka.pattern.Patterns;
 import akka.util.Duration;
 import akka.util.Timeout;
-import net.formiks.actors.wordcounter.MasterActor;
-import net.formiks.messages.Result;
+import net.fordok.actors.wordcounter.MasterActor;
+import net.fordok.messages.Result;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

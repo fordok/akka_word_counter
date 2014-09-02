@@ -1,4 +1,4 @@
-package net.formiks.messages;
+package net.fordok.messages;
 
 /**
  * User: Fordok
