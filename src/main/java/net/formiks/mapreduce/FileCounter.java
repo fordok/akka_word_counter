@@ -12,7 +12,7 @@ import java.io.File;
  * Date: 8/23/14
  * Time: 5:59 PM
  */
-public class CountOfFiles {
+public class FileCounter {
 
     final static String FILE_PATH = "D:\\workspace";
 
